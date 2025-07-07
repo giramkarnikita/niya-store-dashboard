@@ -2,9 +2,7 @@
 # 📊 Niya Store Data Analysis - Excel Dashboard
 
 This is an Excel mini-project that includes an **interactive dashboard** for analyzing **Niya Store’s 2022 sales data**. It helps understand customer demographics, platform-wise sales, and trends to improve business in 2023.
-
 ---
-
 ## 🎯 Objective
 
 To prepare an **Annual Report 2022** for Niya Store and analyze:
@@ -28,7 +26,6 @@ To prepare an **Annual Report 2022** for Niya Store and analyze:
 - ✅ **How do sales and orders compare month-wise?**
 
 ---
-
 ## 🛠️ Tools Used
 
 - **Microsoft Excel**
@@ -38,7 +35,6 @@ To prepare an **Annual Report 2022** for Niya Store and analyze:
   - Conditional Formatting
 
 ---
-
 ## 📂 Files Included
 
 ```
