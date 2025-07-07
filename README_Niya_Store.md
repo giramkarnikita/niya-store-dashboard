@@ -48,7 +48,7 @@ To prepare an **Annual Report 2022** for Niya Store and analyze:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot]https://github.com/giramkarnikita/niya-store-dashboard/blob/main/Screenshot%202025-07-07%20103118.png
+![Dashboard Screenshot 1]https://github.com/giramkarnikita/niya-store-dashboard/blob/main/Screenshot%202025-07-07%20103118.png
 ![Dashboard Screenshot 2][(./Screenshot%202025-07-07%20093643.png)](https://github.com/giramkarnikita/niya-store-dashboard/blob/main/Screenshot%202025-07-07%20103210.png)
 
 ---
